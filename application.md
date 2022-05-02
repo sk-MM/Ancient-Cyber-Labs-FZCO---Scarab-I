@@ -38,24 +38,24 @@ automation and IoT will be innovated and implemented in the years ahead.
 
 ## Product Information
 
-Scarab I by Ancient Cyber Labs is the first product we seek to launch. It will initially
+The Ancient Cyber Labs miner is the first product we seek to launch. It will initially
 function as an indoor hotspot, with a wider-reaching outdoor hotspot version planned
-for future production (Scarab II).
+for future production.
 
-The Scarab I is a full indoor hotspot for operation using the Helium network. It is built
+Our miner is a full indoor hotspot for operation using the Helium network. It is built
 using Raspberry Pi 4, powered by a Semtech® SX1302 baseband LoRa® chip, and
 supports EU868 LoRaWAN frequency.
 
-The Scarab I features integrated Bluetooth, WiFi and Ethernet connectivity, plus a
+It features integrated Bluetooth, WiFi and Ethernet connectivity, plus a
 4.3 inch touchscreen for effortless hotspot control and the visually engaging
 monitoring of varied data streams including rewards and sync status.
 
-We plan also to provide a variety of accessories for the Scarab I hotspot e.g.
+We plan also to provide a variety of accessories for the Ancient Cyber Labs hotspot e.g.
 antennas and cables, with more accessories planned for development and release in
 the future.
 
 We are already finalizing our case designs and are going to be using a metal casing
-for the Scarab I miner.
+for our hotspot.
 
 ![alt text](https://i.ibb.co/k9qWhx9/Whats-App-Image-2022-04-12-at-4-46-11-PM.jpg "Whats-App-Image-2022-04-12-at-4-46-11-PM")
 ![alt text](https://i.ibb.co/m8wq88b/Whats-App-Image-2022-04-12-at-4-46-10-PM-5.jpg "Whats-App-Image-2022-04-12-at-4-46-10-PM-5")
@@ -63,8 +63,8 @@ for the Scarab I miner.
 ## Approximate price point
 
 Given current market conditions regarding both the supply (chips, Raspberry Pi etc.)
-and demand side, our team believes that the initial price point of the Scarab I hotspot
-shall be $500, in line with other market participants.
+and demand side, our team believes that the initial price point of our hotspot
+will be $500, in line with other market participants.
 
 ## Previous shipments
 
@@ -89,7 +89,7 @@ Cyber Labs.
 
 We aim to echo the user-first approach cultivated by each team member in their past
 ventures. It is with this focus in mind that we offer lifetime support to all customers, a
-practice that will be continued for the Helium-powered Scarab I hotspot and all future
+practice that will be continued for the Helium-powered ACL hotspot and all future
 products.
 
 We foster a close relationship with Zendesk and implement their API into our sales
@@ -100,7 +100,7 @@ Furthermore, we will implement internal KPIs for the response times of our custo
 service reps, which will be strictly monitored. In the beginning, one of our existing
 team members will handle this responsibility.
 
-We plan to equip the Scarab I hotspot with a limited 2-year warranty. We will
+We plan to equip our miner with a limited 2-year warranty. We will
 maintain a stock of spare parts and replacement units in case of hardware damage
 or failure.
 
@@ -112,7 +112,7 @@ provide customers with lifelong support whenever possible.
 Security is a key concern to our team and we have implemented many measures to
 ensure we offer maximum possible protection to our valued users.
 
-The Scarab I hotspot will feature an ECC608 security chip that comes equipped with
+The Ancient Cyber Labs hotspot will feature an ECC608 security chip that comes equipped with
 an encrypted swarm key. We are also developing encrypted/locked-down firmware
 and encrypted buses, potting and other anti-tampering measures.
 
@@ -122,7 +122,7 @@ as share the results of such an audit with the public.
 
 ## Hardware Information
 
-We will use the SX1302 and SX1250 LoRa Chipsets in our Scarab I hotspot. For its
+We will use the SX1302 and SX1250 LoRa Chipsets in our hotspot. For its
 CPU, we have opted for the Raspberry Pi 4 Compute Module, which we believe
 superior to available alternatives.
 
@@ -132,6 +132,8 @@ Chipsets, we maintain direct contact with Semtech and have a confimed order for 
 
 Through our Chinese partner, we can confidently source 30,000 radio modules in the
 next few months – and many more thereafter.
+
+Due to the current Raspeberry Pi shortage we are working hard on a solution to build the miner using an alternative compute module. We have our best team on the case and will hopefully come up with a strong and viable solution shortly. This means that we will be able to provide our miners at a quicker pace to the comunity, whilst preserving or achieving a higher processing power for ourt miner.
 
 ## Detailed Hardware and Software designs
   
@@ -183,7 +185,7 @@ Labs, we combine all this experience and look to set new standards in our sector
 
 Thanks also to close partnership with our manufacturer, who possesses 30 years of
 hardware manufacturing experience and has worked on globally regarded projects,
-our team is confident that the Scarab I project bears relatively minimal risk.
+our team is confident that our project bears relatively minimal risk.
 
 ## Expected Production and Delivery Timeline
 
@@ -230,7 +232,7 @@ to source components regardless of shortages.
 • Contact Info: Vincent Mueller, Christian Schroeder, Simon Kunin
 
 • Contact Email: business@vincentmueller.com;
-christian.schroeder@10xvaluepartners.com; s.kunin@muellerinvestment.com
+christian.schroeder@10xvaluepartners.com; s.kunin@muellerinvestment.com; business@ancientcyberlabs.com
 
 • Websites: https://www.mueller-investment.com;
 https://www.10xvaluepartners.com; https://usersdt.net
